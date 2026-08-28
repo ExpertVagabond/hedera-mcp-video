@@ -1,5 +1,6 @@
 {
   "name": "hedera-mcp-video",
+  "author": "Matthew Karsten <matthewkarstenconnects@gmail.com>",
   "version": "1.0.0",
   "private": true,
   "type": "module",
